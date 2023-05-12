@@ -1,0 +1,4 @@
+name: LiveStreamPlugin
+version: '${project.version}'
+main: plugin.livestreamplugin.LiveStreamPlugin
+api-version: 1.19

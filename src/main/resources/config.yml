@@ -1,0 +1,5 @@
+#The platform you'll be streaming on
+#You can set this to: "twitch","youtube","facebook"
+streamingPlatform: ""
+
+socketToken: ""
